@@ -1,1 +1,1 @@
-prnt 'hello'
+print 'hello'
